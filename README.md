@@ -1,6 +1,4 @@
 # Spreadsheet Analysis
-# Spreadsheet Analysis
-# Spreadsheet Analysis
 ## HIV_AIDS_Diagnoses_Analysis
 
 ### Data Set Details
