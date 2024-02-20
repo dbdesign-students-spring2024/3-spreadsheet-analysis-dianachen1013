@@ -97,12 +97,13 @@
    -  is approximately twice as high as the next group, Latino/Hispanic.
 
 
-- ![Chart 2](./images/chart2.jpg)
+- ![Chart 2](./images/chart2.png)
   - The bar chart titled "HIV and AIDS Diagnoses by Sex" compares the total number of HIV and AIDS diagnoses between females and males. Here's a brief analysis of the data presented:
      1. The total number of HIV diagnoses in males (75,675) is approximately four times higher than that in females (18,444). This significant difference indicates a higher prevalence or reporting rate of HIV diagnoses among males compared to females within the dataset.
      2. For AIDS diagnoses, the disparity continues, with males having a total of 44,725 diagnoses compared to 15,848 in females. While the absolute difference is reduced compared to HIV diagnoses, the proportion remains similar.
      3. The graph visually emphasizes the disparity between sexes in both HIV and AIDS diagnoses, with the bars for males being markedly higher than those for females.
-- ![Chart 3](./images/chart3.jpg)
+        
+- ![Chart 3](./images/chart3.png)
  - The graph illustrates the trends of HIV and AIDS diagnoses over the years from 2010 to 2013 and 2016 to 2021. Here's a brief analysis of the data represented in the graph:
      1. The number of HIV diagnoses fluctuates year to year but shows a significant peak in 2020. This surge might suggest a temporary increase in transmission rates, a change in testing practices, or reporting mechanisms.
      2. After the peak in 2020, there's a noticeable drop in HIV diagnoses in 2021, which may indicate effective intervention strategies or could be an effect of reduced testing due to external factors such as a public health crisis. 
@@ -110,6 +111,6 @@
      4. The trend of AIDS diagnoses follows a less volatile pattern compared to HIV diagnoses, suggesting a more consistent progression from HIV to AIDS among diagnosed individuals or stable reporting practices.
      5. The general decline in both HIV and AIDS diagnoses in 2021 could be attributed to several factors including effective antiretroviral treatments, better education on prevention, or possibly the impact of global events such as the COVID-19 pandemic affecting health service access and utilization.
 
+## Extra-credit
 
-  
-
+This assignment deserves extra credit due to the extensive analysis of a particularly large dataset, which includes more than 8000 rows of data. The complexity of the dataset was not just in its size but also in the diversity of variables, including year, sex, and diagnosis counts, which required careful handling to ensure accuracy in the analysis. Not only were the basic trends of HIV and AIDS diagnoses over multiple years thoroughly examined, but the analysis also provided insights into disparities by sex, highlighting areas for potential public health intervention. The data was meticulously cleaned, sorted, and visualized to make the findings accessible and understandable to both technical and non-technical audiences. Additionally, the project made use of advanced data manipulation techniques in Python to efficiently process the dataset, demonstrating a high level of technical proficiency and an understanding of data science best practices.
