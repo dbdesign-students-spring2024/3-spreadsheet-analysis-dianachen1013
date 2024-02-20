@@ -1,6 +1,6 @@
 # Spreadsheet Analysis
 ## HIV_AIDS_Diagnoses_Analysis
-
+   Zoey Qu: xq529; Danqing Chen: dc4829
 ### Data Set Details
 1. Original Data: _HIV/AIDS Diagnoses by Neighborhood, Sex, and Race/Ethnicity_
    - This dataset includes data on new diagnoses of HIV and AIDS in NYC for the calendar years 2016 through 2020. Reported cases and case rates (per 100,000 population) are stratified by United Hospital Fund (UHF) neighborhood, sex, and race/ethnicity.
